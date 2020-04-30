@@ -38,7 +38,7 @@
         "islandora/carapace": "dev-8.x-3.x",
         "islandora/islandora_defaults": "dev-8.x-1.x",
         "islandora/openseadragon": "dev-8.x-1.x",
-        "solarium/solarium": "^5.1",
+        "solarium/solarium": "^4",
         "symfony/event-dispatcher": "4.3.4 as 3.4.99",
         "vlucas/phpdotenv": "^4.0",
         "webflo/drupal-finder": "^1.0.0",
